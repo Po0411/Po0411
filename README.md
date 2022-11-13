@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=50,https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true,https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
 
 <h1 align="center">Hi 👋, I'm 게임개발자 philo</h1>
