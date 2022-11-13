@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=50,https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
+![header](https://capsule-render.vercel.app/api?type=slice)
+
+
 <h1 align="center">Hi 👋, I'm 게임개발자 philo</h1>
 <h3 align="center">I'm Philo, a game developer. / 게임개발자 필로</h3>
 
