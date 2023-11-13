@@ -3,6 +3,7 @@
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Po0411&show_icons=true&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Po0411&layout=compact&theme=synthwave">
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Po0411&theme=radical" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Po0411&theme=radical&exclude={exclude}" />
