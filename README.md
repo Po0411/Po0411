@@ -10,5 +10,5 @@
 <br>
 <br>
 <div align="center">
-  Languages and Tools
+  **Languages and Tools**
 <br>
