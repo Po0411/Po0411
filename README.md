@@ -3,9 +3,9 @@
 <br>
 <br>
 <div align="center">
-    ![](https://raw.githubusercontent.com/Po0411/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Po0411&theme=radical" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Po0411&theme=radical&exclude={exclude}" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Po0411&theme=nord_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Po0411&theme=radical" />
 </div>
 <br>
 <br>
