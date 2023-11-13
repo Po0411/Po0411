@@ -27,7 +27,7 @@
   **Link to an external website**
     <div class="badge-container">
       <a href="https://whgkfkd.tistory.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=tistory&logoColor=white" />
       </a>
     </div>
 </div>
