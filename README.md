@@ -3,7 +3,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Po0411&theme=nord_2077" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Po0411&theme=2077" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Po0411&theme=nord_dark&exclude={exclude}" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Po0411&theme=nord_dark" />
 </div>
