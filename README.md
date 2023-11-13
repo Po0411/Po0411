@@ -26,7 +26,9 @@
 <div align="center">
   **Link to an external website**
   <div class="badge-container">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=tistory&logoColor=white"/>
+    <a href="https://whgkfkd.tistory.com/">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=tistory&logoColor=white" />
+    </a>
   </div>
 </div>
 
