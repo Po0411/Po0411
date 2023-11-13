@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <h1 align="center">Hi 👋, I'm 게임개발자</h1>
 <h3 align="center">I'm JO, a game developer. / 게임개발자 하랑</h3>
