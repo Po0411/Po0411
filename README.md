@@ -7,6 +7,17 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Po0411&theme=radical&exclude={exclude}" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Po0411&theme=radical" />
 </div>
+
+<div align="center">
+  <img onload="loadImage(this)" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Po0411&theme=radical" />
+  <img onload="loadImage(this)" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Po0411&theme=radical&exclude={exclude}" />
+  <img onload="loadImage(this)" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Po0411&theme=radical" />
+</div>
+<script>
+  function loadImage(img) {
+    img.style.opacity = 1;
+  }
+</script>
 <br>
 <br>
 <div align="center">
