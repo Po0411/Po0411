@@ -21,6 +21,8 @@
   </div>
 </div>
 </div>
+</div>
+</div>
 <div align="center">
   **Link to an external website**
 </div>
