@@ -16,7 +16,6 @@
 <br>
 <br>
 <br>
-###
 <div align="center">
   **Link to an external website**
     <div class="badge-container">
