@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender 뱃지">
   </div>
 </div>
-</div>
-</div>
-</div>
+<br>
+<br>
+<br>
 <div align="center">
   **Link to an external website**
 </div>
