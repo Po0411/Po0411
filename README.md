@@ -1,4 +1,13 @@
-<text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#703ee5;" stroke="#none" stroke-width="1">Transparent</text>
+# My Awesome Project
+
+![Project Image](url_to_image)
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/stargazers)
+
+Description of your awesome project.
+
+
 <h1 align="center">Hi 👋, I'm 게임개발자</h1>
 <h3 align="center">I'm JO, a game developer. / 게임개발자 하랑</h3>
 
