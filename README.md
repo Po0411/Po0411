@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Hello%20👋%20Nice%20to%20meet%20you!&fontSize=32&animation=fadeIn&fontAlignY=40&fontColor=ffffff"/>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Po0411&show_icons=true&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=Po0411&show_icons=true&theme=highcontrast)
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Po0411&theme=radical" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Po0411&theme=radical&exclude={exclude}" />
