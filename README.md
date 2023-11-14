@@ -24,7 +24,18 @@
       </a>
     </div>
 </div>
-  
+<div align="center">
+  **Link to External Websites**
+  <div class="badge-container">
+    <a href="https://whgkfkd.tistory.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=tistory&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/your_instagram_username/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    </a>
+  </div>
+</div>
+
 ##
 
 <br>
