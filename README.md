@@ -25,6 +25,9 @@
     <a href="https://www.instagram.com/chowawa_16/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
     </a>
+    <a href="https://www.acmicpc.net/user/your_baekjoon_username">
+      <img src="https://your-baekjoon-badge-url">
+    </a>
 </div>
 
 ##
